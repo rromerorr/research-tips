@@ -23,6 +23,7 @@ Hi there! What are your favorite questions about teaching, learning, creativity,
 Here's a collection of quotes gathered by the WI+RE team:
 
 > You must never feel badly about making mistakes ... as long as you take the trouble to learn from them. For you often learn more by being wrong for the right reasons than you do by being right for the wrong reasons.
+>
 > _Norton Juster_
 
 > Either write something worth reading or do something worth writing about.
